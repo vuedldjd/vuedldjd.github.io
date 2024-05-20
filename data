@@ -1,9 +1,0 @@
- videoFlag: false,
-      //是否显示进度条
-      videoUploadPercent: "",
-      //进度条的进度，
-      isShowUploadVideo: false,
-      //显示上传按钮
-      videoForm: {
-        showVideoPath: "",  //回显的变量
-      },
